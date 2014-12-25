@@ -1,9 +1,2431 @@
 {
     "paging": {
-        "next": "https://graph.facebook.com/v2.0/156636487712070/feed?limit=1000&access_token=CAACEdEose0cBAMk7zDTxShQ75yEYuuYTRhSmYBusqXJSK8enDb67MeIVRamSwKE7JzvcZAeofvXVGbL8risNxnY7c11v4ahG68fQLBycRmRIKWcaWgRxNmWfmZBsvqP11E9idfF4ZAeL2aoFs8njRh7gMEuP39Fcv0cvZCfg9bt85FxXP0312uHlffEzTpV2QHzgcQO4znAyGoLlURMPrRmGZAPuZAJkYZD&until=1289117284&__paging_token=enc_AexEF--X7SzYWZG2GVXfcTG33MKupG5DLudAS0tUl8dPp_vQh6T2NXvdAd71P7vGpLxSRIhoWkLhBiP15rwtTvdXHUFy2qRAJ3TnHFO8rkIptA", 
-        "previous": "https://graph.facebook.com/v2.0/156636487712070/feed?limit=1000&__paging_token=enc_AewNaWH3ZS_i2WOgfzVap6ynwcQBj9zt_GSiCrq1tt4WjtfCy4CZpMv8fbYwSOOl0BuqKAJoiEZSFvoNpR--UzhbqLpByX5-OpAQodeGzafgyw&since=1330789298&access_token=CAACEdEose0cBAMk7zDTxShQ75yEYuuYTRhSmYBusqXJSK8enDb67MeIVRamSwKE7JzvcZAeofvXVGbL8risNxnY7c11v4ahG68fQLBycRmRIKWcaWgRxNmWfmZBsvqP11E9idfF4ZAeL2aoFs8njRh7gMEuP39Fcv0cvZCfg9bt85FxXP0312uHlffEzTpV2QHzgcQO4znAyGoLlURMPrRmGZAPuZAJkYZD&__previous=1"
+        "next": "https://graph.facebook.com/v2.0/156636487712070/feed?limit=1000&access_token=CAACEdEose0cBAJaeDf7Vm2mtYHfMZCZA9bb96ddvGw7yVZAAbGFp6badqMymVCzLmwRmwJ6zIpITQ1QikDHWfUsXN50piDWy8wvBgvR3QoZB4ocajkQS6drg8X3NHAB2jFq5ZCxPQwpmwOv0ZBYRY10Mrb9DhBZAYcGgOLqTDhW5kEs2hxSr6sHji67S5RgIWzwPdDaMlyto0ideBPLMzzf0faWJsCNPIcZD&until=1323459347&__paging_token=enc_AewZh0xN5R4EiUY63CjolLIzk7DnOC4CIkSAsyq4w0XpzFKDvuavGZZZrV0jejaq3mCecsbHUqYhcFVvLmopHrviN_OhwJVgmYtBN3s5tZQi4Q", 
+        "previous": "https://graph.facebook.com/v2.0/156636487712070/feed?limit=1000&__paging_token=enc_Aexwdg1i7fJtHfDbBLvmJSwoqaaMwZVz2XkQmjaZqUZ1GwxcDBlqRcVP1eB7X2IsTXXnGt1PYeglcg8zRw0zwlr40f3T7yEqkbH0Ka63oWM58Q&since=1376034330&access_token=CAACEdEose0cBAJaeDf7Vm2mtYHfMZCZA9bb96ddvGw7yVZAAbGFp6badqMymVCzLmwRmwJ6zIpITQ1QikDHWfUsXN50piDWy8wvBgvR3QoZB4ocajkQS6drg8X3NHAB2jFq5ZCxPQwpmwOv0ZBYRY10Mrb9DhBZAYcGgOLqTDhW5kEs2hxSr6sHji67S5RgIWzwPdDaMlyto0ideBPLMzzf0faWJsCNPIcZD&__previous=1"
     }, 
     "data": [
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCrh5EHbMf9M0_o&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FWRHfLayTOsw%2Fmaxresdefault.jpg%3Ffeature%3Dog", 
+            "from": {
+                "id": "10204097618697920", 
+                "name": "S\u00e6var \u00d6rn Arason Michelsen"
+            }, 
+            "name": "Multiculturalism has Failed in Europe - And that's Official !", 
+            "source": "http://www.youtube.com/v/WRHfLayTOsw?autohide=1&version=3&autoplay=1", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/576151282427253", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/576151282427253", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-08-09T07:45:30+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "http://www.youtube.com/watch?v=WRHfLayTOsw", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI1NDA1NDExMzcyNzA=", 
+                        "before": "ODIxNzU5Njg0NTUyMDMy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "821759684552032", 
+                        "name": "Brynja Axelsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-08-09T07:45:30+0000", 
+            "message": "Merkileg fr\u00e9tt http://www.youtube.com/watch?v=WRHfLayTOsw", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif", 
+            "type": "video", 
+            "id": "156636487712070_576151282427253", 
+            "description": "Multiculturalism is dead in Europe, British PM David Cameron German Chancellor Angela Merkel and French President Nicolas Sarkozy all now agree!"
+        }, 
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQD6wBo6SyAvZRWx&w=158&h=158&url=http%3A%2F%2Fhrydjuverk.files.wordpress.com%2F2012%2F03%2Fimran-firasat1.jpg%3Fw%3D300%26h%3D300", 
+            "from": {
+                "id": "10202163757125571", 
+                "name": "Skuli Skulason"
+            }, 
+            "name": "L\u00d6GLEGA  OPINBER   BEI\u00d0NI   UM   BANN  \u00c1   K\u00d3RANINN \u00c1 SP\u00c1NI.", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGMxTnpVd01EZzVNVE0wTURNNU9qRXpOelU1TlRNME16WTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZNelV5TlRJME1EVTBOemc1T1RjNE9qRXpNekkyTURRNU5EZzZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2012-03-24T16:02:28+0000", 
+                        "message": "\u00deetta er st\u00f3rh\u00e6ttulegt rit, og Islam er sj\u00fakt og roti\u00f0 a\u00f0 innan sem utan....beinl\u00ednis ska\u00f0leg tr\u00faarbr\u00f6g\u00f0...Allah er fatha morgana!!!", 
+                        "id": "352524054789978", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T13:56:37+0000", 
+                        "message": "Eigum vi\u00f0 ekki a\u00f0 leggja \u00feessa l\u00f6gbannskr\u00f6fu fram h\u00e9rna \u00e1 \u00cdslandi. \u00c9g meina \u00ed alv\u00f6runni.", 
+                        "id": "570322223010159", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-08-06T22:43:56+0000", 
+                        "message": "\u00dea\u00f0 eru evr\u00f3psk ford\u00e6mi fyrir sl\u00edku banni. Nasismi er eftir \u00fev\u00ed sem \u00e9g best veit banna\u00f0ur \u00ed \u00fe\u00fdskalandi. \u00de\u00e6r hugmyndir sem bo\u00f0a\u00f0ar eru \u00ed K\u00f3raninum eru st\u00f3rh\u00e6ttulegar. Heila\u00fevotturinn \u00e1 s\u00e9rstaklega ungum m\u00f6nnum sem eru af \u00fdmsum \u00e1st\u00e6\u00f0um utanveltu t.d \u00ed Bretlandi og v\u00ed\u00f0ar skapar skr\u00edmsli. Vi\u00f0 \u00fe\u00e1 sem segja a\u00f0 h\u00e9r s\u00e9 veri\u00f0 a\u00f0 bo\u00f0a hatur \u00e1 m\u00faslimum segji \u00e9g a\u00f0 \u00fea\u00f0 s\u00e9 alrangt. M\u00fasliminn er fyrsta f\u00f3rnalambi\u00f0. Svo vi\u00f0. Af k\u00e6rleika segi \u00e9g \u00fev\u00ed. \u00dea\u00f0 ver\u00f0ur a\u00f0 banna K\u00f3raninn \u00e1 \u00cdslandi.", 
+                        "id": "575259849183063", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10152540541137270", 
+                            "name": "Palmar Magnusson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2013-08-08T01:20:58+0000", 
+                        "message": "\u00cdtalir vi\u00f0urkenna ekki \u00edslam sem tr\u00faarbr\u00f6g\u00f0 og \u00feeir ver\u00f0a a\u00f0 borga fullan skatt \u00fear.", 
+                        "id": "575640739144974", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2013-08-08T08:12:05+0000", 
+                        "message": "Sumir h\u00e9rna \u00e1 \u00cdslandi eru bara svo veikge\u00f0ja og heila\u00fevegnir af p\u00f3lit\u00edskri r\u00e9tthugsun og Na\u00edvisminn svo \u00ed fyrirr\u00fami a\u00f0 \u00fea\u00f0 endar me\u00f0 skelfingu ef ekkert er a\u00f0 gert. \u00c9g s\u00e1 \u00e1 youtube um daginn a\u00f0 \u00cdtalir hafa stofna\u00f0 h\u00f3pa sem vakta g\u00f6tur borgarinnar og passa upp \u00e1 a\u00f0 M\u00faslimar s\u00e9u ekki a\u00f0 angra anna\u00f0 f\u00f3lk. \u00deessir h\u00f3par vakta g\u00f6turnar b\u00e6\u00f0i \u00e1 daginn og \u00e1 n\u00f3ttunni. \u00dear er f\u00f3lk b\u00fai\u00f0 a\u00f0 f\u00e1 n\u00f3g af innflutningi m\u00faslima til landsins. \u00deetta f\u00f3lk kemur fr\u00e1 l\u00f6ndum \u00fear sem menningarmismunurinn er svo mikill (algj\u00f6rt barbar\u00ed) a\u00f0 \u00fea\u00f0 mun aldrei geta samlagast okkur og vill \u00fea\u00f0 ekki.", 
+                        "id": "575727589136289", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 4, 
+                        "can_remove": false, 
+                        "created_time": "2013-08-08T09:16:06+0000", 
+                        "message": "SAM\u00de\u00c6TTING    ERD\u00d3GAN \nSAM\u00de\u00c6TTING   EIN  AF  FANTAS\u00cdUM  VINSTRIMENNSKUNNAR.\n\u00cd  febr\u00faar   2011   heims\u00f3tti    fors\u00e6tisr\u00e1\u00f0herra Tyrkja,  Recep  Tayyuip Erdogan   tyrkneska  innflytjendur   \u00ed  \u00de\u00fdzkalandi  og    vara\u00f0i  \u00fe\u00e1   vi\u00f0  \u00fev\u00ed  a\u00f0   sam\u00fe\u00e6ttast  \u00fe\u00fdzkri  menningu.  Hann   sag\u00f0i  sam\u00fe\u00e6ttingu   vera  gl\u00e6p  gegn  mannkyninu.", 
+                        "id": "575749925800722", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 4, 
+                        "can_remove": false, 
+                        "created_time": "2013-08-08T09:17:16+0000", 
+                        "message": "\u00c1st\u00e6\u00f0urnar fyrir \u00fev\u00ed a\u00f0 M\u00fasl\u00edmar geta ekki sam\u00fe\u00e6st  ,,hinum.\u201d  \u00cd gestgjafa\u00fej\u00f3\u00f0f\u00e9l\u00f6gunum.\n \n,,Sam\u00fe\u00e6ttingu vi\u00f0  Gestgjafa\u00fej\u00f3\u00f0f\u00e9lagi\u00f0.\u201c  Tr\u00fair\u00f0u \u00e1 \u00fe\u00e1 tilskipun K\u00f3ransins a\u00f0 M\u00fasl\u00edmar  vingist ekki vi\u00f0  Kristi\u00f0 f\u00f3lk (K\u00f3ran 003:028, 005:051 og 009:023) heldur eigi a\u00f0 berjast vi\u00f0 \u00fea\u00f0 og s\u00fdna \u00fev\u00ed fjandskap (K\u00f3ran 009:005,  002:191, 002:244, 004:089, 005:036, og  009:029)? A\u00f0 berjast vi\u00f0 hei\u00f0na n\u00e1granna  (K\u00f3ran 009:123). M\u00fasl\u00edmar eru herskyldir:  (Koran 002:216).   Og fyrirskipar a\u00f0 sigra skuli \u00fe\u00e1 \u00e6ttingja, sem stand gegn M\u00fasl\u00edmum, vegna \u00feess a\u00f0 hollustan vi\u00f0 \u00cdslam er \u00e6\u00f0ri \u00f6llum  \u00e6ttarb\u00f6ndum og mannlegum tengslum   (K\u00f3ran 009:023-024, og  058:022). (Innskot \u00fe\u00fd\u00f0anda).\n  \nHvernig fara \u00feessar kenningar   saman vi\u00f0 ,,Fj\u00f6l\u00fej\u00f3\u00f0asamf\u00e9lagshugmyndirnar.\u201c  Er \u00cdslam fj\u00f6l\u00fej\u00f3\u00f0legt \u00ed e\u00f0li s\u00ednu \u00ed \u00feeim l\u00f6ndum, \u00fear sem \u00edslamskar r\u00edkisstj\u00f3rnir r\u00e1\u00f0a r\u00edkjum, e\u00f0a fer \u00fea\u00f0 s\u00ednar eigin lei\u00f0ir \u00ed sam\u00fe\u00e6ttingunni?  Er til sam\u00fe\u00e6tting \u00ed \u00cdslam vi\u00f0 Kristi\u00f0 gestgjafa\u00fej\u00f3\u00f0f\u00e9lag?", 
+                        "id": "575750089134039", 
+                        "user_likes": false
+                    }
+                ]
+            }, 
+            "caption": "hrydjuverk.wordpress.com", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/352463238129393", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/352463238129393", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-08-08T09:17:16+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "http://hrydjuverk.wordpress.com/2012/03/24/loglega-opinber-beidni-um-bann-a-koraninn-a-spani/#comment-2043", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDE5Njc4Nzg5NTQ4OQ==", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "336628516505061", 
+                        "name": "\u00der\u00f6stur Karlsson"
+                    }, 
+                    {
+                        "id": "821759684552032", 
+                        "name": "Brynja Axelsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "719677371427979", 
+                        "name": "Andr\u00e9s G Gu\u00f0bjartsson"
+                    }, 
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }, 
+                    {
+                        "id": "10204097618697920", 
+                        "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }
+                ]
+            }, 
+            "created_time": "2012-03-24T13:33:35+0000", 
+            "message": "http://hrydjuverk.wordpress.com/2012/03/24/loglega-opinber-beidni-um-bann-a-koraninn-a-spani/#comment-2043\n\n(2)    K\u00f3raninn   er   hr\u00e6\u00f0ileg  b\u00f3k,   sem  espar   samf\u00e9lag   og   kve\u00f0ur  m\u00fasl\u00edma   til  str\u00ed\u00f0s  (Jihad),  a\u00f0   drepa   saklaust  f\u00f3lk   og   ey\u00f0ileggja  heimsfri\u00f0inn. (K\u00f3ran  2:190)\n\n(3)    K\u00f3raninn   ber  \u00e1byrg\u00f0   \u00e1   \u00f6llum   hry\u00f0juverkum  sem   vi\u00f0   h\u00f6fum  s\u00e9\u00f0  \u00e1  undangengnum   \u00e1rum   \u00fear  sem   \u00fe\u00fasundir  manna   hafa  t\u00fdnt  l\u00edfinu. (K\u00f3ran 9:5)\n\n(4)    K\u00f3raninn  er  b\u00f3k   sem  inniheldur   illar   kenningar og   ney\u00f0ir    \u00e1tr\u00faendur  s\u00edna   til  a\u00f0   hertaka  allan   heiminn   og   alr\u00e6\u00f0isvald    kva\u00f0   sem  \u00fea\u00f0  kostar.  (K\u00f3ran (8:39).", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+            "type": "link", 
+            "id": "156636487712070_352463238129393", 
+            "description": "  Imran  Firasat. Pakistani   sem  sest   hefur  a\u00f0  \u00e1  Sp\u00e1ni   bi\u00f0ur   formlega  um   a\u00f0   ,,K\u00d3RANINN  VER\u00d0I  BANNA\u00d0UR.\u201c                 ,,Imran ..."
+        }, 
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCAQd4KEvhqBpeN&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fx2rJhzO_2vA%2Fhqdefault.jpg%3Ffeature%3Dog", 
+            "from": {
+                "id": "10204097618697920", 
+                "name": "S\u00e6var \u00d6rn Arason Michelsen"
+            }, 
+            "name": "Phil Hotsenpiller Interviews Mosab Hassan Yousef AKA Son of Hamas - Part Two", 
+            "source": "http://www.youtube.com/v/x2rJhzO_2vA?autohide=1&version=3&autoplay=1", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/575625892479792", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/575625892479792", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-08-08T00:16:51+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "http://www.youtube.com/watch?v=x2rJhzO_2vA", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NzE5Njc3MzcxNDI3OTc5", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }, 
+                    {
+                        "id": "10202751411340490", 
+                        "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "719677371427979", 
+                        "name": "Andr\u00e9s G Gu\u00f0bjartsson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-08-08T00:16:51+0000", 
+            "message": "Merkilegt vi\u00f0tal vi\u00f0 son Hamas h\u00f6f\u00f0ingja sem hefur s\u00e9\u00f0 \u00cdslam \u00ed r\u00e9ttu lj\u00f3si. http://www.youtube.com/watch?v=x2rJhzO_2vA", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif", 
+            "type": "video", 
+            "id": "156636487712070_575625892479792", 
+            "description": "At Yorba Linda Friends Church's renowned Prophecy Conference, Phil Hotsenpiller sat down for an enlightening conversation with Mosab Hassan Yousef, author of..."
+        }, 
+        {
+            "from": {
+                "id": "10204841708308329", 
+                "name": "Margr\u00e9t Sig"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/567603186615396", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/567603186615396", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-26T21:10:39+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "ODIxNzU5Njg0NTUyMDMy", 
+                        "before": "ODIxNzU5Njg0NTUyMDMy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "821759684552032", 
+                        "name": "Brynja Axelsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-20T12:09:03+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_567603186615396", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TkRZMU56ZzVOall5TkRZNU9qRXpOelE0TnpNd016azZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TkRZMU56ZzVOall5TkRZNU9qRXpOelE0TnpNd016azZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10204841708308329", 
+                            "name": "Margr\u00e9t Sig"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T21:10:39+0000", 
+                        "message": "S\u00e1 sem h\u00e6st hefur og s\u00fdnir rei\u00f0i hefur r\u00e9tt fyrir s\u00e9r a\u00f0 \u00feeirra mati !", 
+                        "id": "570465789662469", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "622997634435907", 
+                "name": "Ingvar H\u00f3lm Traustason"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/337286096313774", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/337286096313774", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-26T13:57:46+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI1ODMzMDY2MTIyNTk=", 
+                        "before": "MTAyMDQwOTc2MTg2OTc5MjA="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10204097618697920", 
+                        "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                    }, 
+                    {
+                        "id": "10152611191596376", 
+                        "name": "Sirry Hannesdottir"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10202751411340490", 
+                        "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }, 
+                    {
+                        "id": "10152583306612259", 
+                        "name": "Inga G Halldorsdottir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-02-28T08:47:54+0000", 
+            "message": "JEG HEF SJ\u00d0 LEIFAR AF B\u00cdL\u00cdUNI VI\u00d0 HLI\u00d0INI \u00c1KL\u00d3SETI NI\u00d0RI KARASI PAKISTAN  OK \u00deEIRA M\u00c1L EKKI MIT EN \u00deEGAR NOKKRIR MEN BRENA K\u00d3RANINN \u00cd AFGANISTAN FARA \u00deEIR DREPANDI F\u00d3LK UM ALAR JAR\u00d0IR  KRAKKAR   ALDREI MOSKVU DRASL \u00c1 MINU LANDI", 
+            "type": "status", 
+            "id": "156636487712070_337286096313774", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TXpJeU5USTVOamMyTnprMU9qRXpOelE0TkRjd05qWTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TXpJeU5USTVOamMyTnprMU9qRXpOelE0TkRjd05qWTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T13:57:46+0000", 
+                        "message": "\u00dea\u00f0 \u00fearf a\u00f0 brenna k\u00f3raninn og teikna m\u00fahame\u00f0 til \u00feess a\u00f0 \u00feeir s\u00fdni sitt r\u00e9tta andlit.", 
+                        "id": "570322529676795", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/468674803174902", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/468674803174902", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-26T13:54:57+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NjIyOTk3NjM0NDM1OTA3", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }, 
+                    {
+                        "id": "622997634435907", 
+                        "name": "Ingvar H\u00f3lm Traustason"
+                    }
+                ]
+            }, 
+            "created_time": "2012-11-25T22:58:10+0000", 
+            "message": "Hvers konar f\u00f3lk er \u00feetta", 
+            "type": "status", 
+            "id": "156636487712070_468674803174902", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TXpJeE56VTVOamMyT0RjeU9qRXpOelE0TkRZNE9UYzZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFk0TnpJMk1EZzJOVEF6TVRBM09qRXpOVE00T1RRM056YzZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2012-11-26T01:52:57+0000", 
+                        "message": "They plan to rule over Europa and their traditions will rule... Did I hear somebody whisper \"Nostradamus\"..............!", 
+                        "id": "468726086503107", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T13:54:57+0000", 
+                        "message": "Sp\u00e1\u00f0i Nostradamus ekki \u00fev\u00ed a\u00f0 m\u00faslimar yr\u00f0u drepnir \u00ed st\u00f3rum st\u00edl og reknir \u00fat \u00far evr\u00f3pu. \u00deetta myndi byrja einhvers sta\u00f0ar \u00ed su\u00f0ur evr\u00f3pu.", 
+                        "id": "570321759676872", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "10204402358850791", 
+                "name": "\u00d3lafur Gunnarsson"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566331453409236", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566331453409236", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-26T13:52:25+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDQ4NDE3MDgzMDgzMjk=", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10203167434253495", 
+                        "name": "Gudmunda Egilsdottir"
+                    }, 
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }, 
+                    {
+                        "id": "10202751411340490", 
+                        "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "719677371427979", 
+                        "name": "Andr\u00e9s G Gu\u00f0bjartsson"
+                    }, 
+                    {
+                        "id": "10204841708308329", 
+                        "name": "Margr\u00e9t Sig"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-17T06:44:25+0000", 
+            "message": "Hverjir eru \u00fea\u00f0 sem gefa leyfin fyrir Moskum h\u00e9r \u00e1 landi.  Ekki er \u00fea\u00f0 vilji almennings svo miki\u00f0 er v\u00edst.  \u00dear sem Muslimar eru \u00fear er bl\u00f3\u00f0 og dj\u00f6fulgangur.", 
+            "type": "status", 
+            "id": "156636487712070_566331453409236", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TXpJeE1EazJNelF6TmpBMU9qRXpOelE0TkRZM05EVTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TXpJeE1EazJNelF6TmpBMU9qRXpOelE0TkRZM05EVTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10204097618697920", 
+                            "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T13:52:25+0000", 
+                        "message": "\u00c9g heyr\u00f0i s\u00f6gu a\u00f0 \u00f3nefndur borgarfulltr\u00fai \u00e6tti m\u00f3\u00f0ur sem v\u00e6ri m\u00faslimi og \u00feannig v\u00e6ri \u00feetta \u00ed pottinn b\u00fai\u00f0. Sel \u00fea\u00f0 samt ekki d\u00fdrara en \u00e9g keypti \u00fea\u00f0 en \u00fea\u00f0 v\u00e6ri \u00e1hugavert a\u00f0 kanna hvort \u00fea\u00f0 s\u00e9 f\u00f3tur fyrir \u00feessu.", 
+                        "id": "570321096343605", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/570097273032654", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/570097273032654", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-26T00:53:20+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDI2NTI2MDI1NzAwMTM=", 
+                        "before": "MTAyMDE1MzQ0ODYyODI2MTQ="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201534486282614", 
+                        "name": "Gu\u00f0mundur J\u00f3nas Kristj\u00e1nsson"
+                    }, 
+                    {
+                        "id": "719677371427979", 
+                        "name": "Andr\u00e9s G Gu\u00f0bjartsson"
+                    }, 
+                    {
+                        "id": "10202652602570013", 
+                        "name": "Egill \u00de\u00f3r Hallgr\u00edmsson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-25T23:29:18+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_570097273032654", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TVRNeU1qYzVOamsxT0RJd09qRXpOelE0TURBd01EQTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVGN3TVRBd05EVTVOams1TURBeU9qRXpOelEzT1RVM05UYzZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10202751411340490", 
+                            "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-25T23:42:37+0000", 
+                        "message": "http://www.hoover.org/publications/defining-ideas/article/152651", 
+                        "id": "570100459699002", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:34:47+0000", 
+                        "message": "H\u00e9rna erum vi\u00f0 \u00e1 sama b\u00e1ti Gu\u00f0r\u00fan m\u00edn!!!", 
+                        "id": "570127333029648", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202751411340490", 
+                            "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:35:27+0000", 
+                        "message": "J\u00e1 \u00fea\u00f0 er gott :)", 
+                        "id": "570127529696295", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:42:46+0000", 
+                        "message": "\u00c9g sendi spurningu til Obama um hvort hann v\u00e6ri kristinn e\u00f0a m\u00fasl\u00edmi,sem hann svara\u00f0i ekki en ef hann hefur eitthva\u00f0 a\u00f0 fela \u00ed \u00feeim efnum \u00e1 hann ekki minn stu\u00f0ninig!!!", 
+                        "id": "570129346362780", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202751411340490", 
+                            "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:43:49+0000", 
+                        "message": "Obama er m\u00faslimi, og hagar s\u00e9r eftir \u00fev\u00ed...", 
+                        "id": "570129769696071", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:44:25+0000", 
+                        "message": "Hva\u00f0 hefuru fyrir \u00fe\u00e9r \u00ed \u00fev\u00ed???", 
+                        "id": "570129876362727", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202751411340490", 
+                            "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:46:04+0000", 
+                        "message": "\u00dea\u00f0 er langur a\u00f0dragandi a\u00f0 \u00fev\u00ed Magnus, og fl\u00f3ki\u00f0 m\u00e1l a\u00f0 fara \u00ed gegnum \u00fea\u00f0. En \u00fea\u00f0 er ekki nokkurn efi \u00ed m\u00ednum huga a\u00f0 Obama er m\u00faslimi og gengur \u00feeirra erinda", 
+                        "id": "570130459696002", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:47:34+0000", 
+                        "message": "\u00c9g held \u00fe\u00fa \u00feurfir a\u00f0 vera rep\u00fablikani til a\u00f0 tr\u00faa \u00feessu???", 
+                        "id": "570130853029296", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202751411340490", 
+                            "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-26T00:53:20+0000", 
+                        "message": "http://amac.us/above-the-law-obamas-radical-rejection-of-the-rule-of-law-has-fatal-consequences    Obama er !\"#$\"#$%", 
+                        "id": "570132279695820", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "4214905188472", 
+                "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/569734309735617", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/569734309735617", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-25T08:00:12+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDIxNDkwNTE4ODQ3Mg==", 
+                        "before": "MTAyMDQ0MDIzNTg4NTA3OTE="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10204402358850791", 
+                        "name": "\u00d3lafur Gunnarsson"
+                    }, 
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-24T23:58:49+0000", 
+            "message": "N\u00fa var \u00e9g bara n\u00e6stum drepin \u00ed Stavanger af M\u00faslimum t\u00f3ku vinkonu m\u00edna og vildu ekki sleppa henni svo \u00e9g spur\u00f0i eru \u00fei\u00f0 M\u00faslimar haldi\u00f0 a\u00f0 \u00fei\u00f0 geti\u00f0 bara fengi\u00f0 \u00fea\u00f0 sem \u00fei\u00f0 vilji\u00f0 og \u00feeir s\u00f6g\u00f0u a\u00f0 m\u00e9r kj\u00e6mi \u00fea\u00f0 ekki vi\u00f0 svo \u00e9g sag\u00f0i helv\u00edtis Alla f\u00e6r ekki allt sam hann vill , \u00e9g er h\u00e9r svo ma\u00f0urinn k\u00edldi mig svo \u00e9g sag\u00f0i svonqa eru m\u00faslimar bara k\u00edla konurnar svo labba\u00f0i \u00e9g burt en hann kom hlaupandi eftir m\u00e9r og k\u00edldi mig aftur og braut t\u00f6nn \u00ed m\u00e9r eina f\u00f3lki\u00f0 sem st\u00f3\u00f0 me\u00f0 m\u00e9r voru H\u00d3RURNAR \u00ed b\u00e6num aumingja Nor\u00f0mennirnir \u00feora engu svona ver\u00f0ur \u00fea\u00f0 \u00ed Reykjav\u00edk eftir sirka 2 \u00e1r\nL\u00edkar \u00feetta \u00b7  \u00b7 Deila\n\nKaren Gu\u00f0mundsd\u00f3ttir en viti\u00f0 \u00fei\u00f0 \u00e9g er tilb\u00fainn a\u00f0 deyja fyrir \u00feetta \u00e9g vil ekki sj\u00e1 m\u00edn barnab\u00f6rn \u00ed b\u00farku", 
+            "type": "status", 
+            "id": "156636487712070_569734309735617", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFk1T0RRM01URTJNemt4TURBek9qRXpOelEzTXpreU1USTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFk1TnpNMk5EQXpNRFk0TnpReE9qRXpOelEzTVRBNE9EQTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "706194596114257", 
+                            "name": "Atli Freyr Hj\u00f6rleifsson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-25T00:08:00+0000", 
+                        "message": "vi\u00f0 \u00e6ttum a\u00f0 berjast fyrir skotleyfi \u00e1 \u00feessa auminga...", 
+                        "id": "569736403068741", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 4, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-25T01:14:41+0000", 
+                        "message": "Islam eru mannskemmandi si\u00f0ur sem \u00e1 ekki skili\u00f0 a\u00f0 vera kalla\u00f0 tr\u00fa, bara hindurvitni og  dj\u00f6fulgangur!!! Aldrei mosku \u00e1 \u00cdslandi!!!", 
+                        "id": "569751896400525", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "551031884996362", 
+                            "name": "Lisa Bjork"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-25T08:00:12+0000", 
+                        "message": "Jeminn g\u00f3\u00f0ur,\u00feetta hef\u00f0i geta\u00f0 enda\u00f0 verr.Er ekki h\u00e6gt a\u00f0 k\u00e6ra \u00fe\u00e1?", 
+                        "id": "569847116391003", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "4214905188472", 
+                "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/568555286520186", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/568555286520186", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-22T10:33:06+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-22T10:33:06+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_568555286520186"
+        }, 
+        {
+            "from": {
+                "id": "10202652602570013", 
+                "name": "Egill \u00de\u00f3r Hallgr\u00edmsson"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566304703411911", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566304703411911", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-17T22:08:05+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NzA2MTk0NTk2MTE0MjU3", 
+                        "before": "MTAyMDQ0MDIzNTg4NTA3OTE="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10204402358850791", 
+                        "name": "\u00d3lafur Gunnarsson"
+                    }, 
+                    {
+                        "id": "706194596114257", 
+                        "name": "Atli Freyr Hj\u00f6rleifsson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-17T04:30:26+0000", 
+            "message": "\"In Seville Spain, local people found a way to stop the construction of another mosque in their town. They buried a pig on the site, and made sure this would be known by the local press.\nThe Islamic rules forbid the erecting of a Mosque on \u201cpig soiled ground.\u201d The Muslims had to cancel the project. This land was sold to them by government officials.\nNo protests were needed by the local people\u2026and it worked!\nPlant a pig.\"  Ra\u00fal S\u00e1enz sendi \u00feetta tvisvar sinnum \u00ed einkaskilabo\u00f0um \u00e1\u00f0an. Einhver n\u00e1ungi me\u00f0 tvo sameiginlega \u00edslenska vini.", 
+            "type": "status", 
+            "id": "156636487712070_566304703411911", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkyTlRrNU56UXpNemd5TkRBM09qRXpOelF3T1RnNE9EVTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkyTkRZME5UVXdNRFl5TlRrek9qRXpOelF3TnpRd09EazZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-17T15:14:49+0000", 
+                        "message": "J\u00f6r\u00f0um sv\u00edn \u00e1 reitnum...........koma svo!!!", 
+                        "id": "566464550062593", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202652602570013", 
+                            "name": "Egill \u00de\u00f3r Hallgr\u00edmsson"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-17T20:21:26+0000", 
+                        "message": "\u00f3ska eftir sv\u00edni sem hefur d\u00e1i\u00f0 \u00far elli svona helst.", 
+                        "id": "566571056718609", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-17T22:08:05+0000", 
+                        "message": "\u00d3ska eftir \u00faldnu sv\u00ednshr\u00e6i!!!", 
+                        "id": "566599743382407", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "4214905188472", 
+                "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566480133394368", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/566480133394368", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-17T16:02:37+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI1NDA1NDExMzcyNzA=", 
+                        "before": "MTAxNTI1NDA1NDExMzcyNzA="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-17T16:02:37+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_566480133394368"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/564021786973536", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/564021786973536", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-11T22:56:04+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAxNTI1NDA1NDExMzcyNzA=", 
+                        "before": "MzM2NjI4NTE2NTA1MDYx"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "336628516505061", 
+                        "name": "\u00der\u00f6stur Karlsson"
+                    }, 
+                    {
+                        "id": "719677371427979", 
+                        "name": "Andr\u00e9s G Gu\u00f0bjartsson"
+                    }, 
+                    {
+                        "id": "10204351112592280", 
+                        "name": "Sirry Waage"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "821759684552032", 
+                        "name": "Brynja Axelsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-11T07:35:20+0000", 
+            "message": "Svona ver\u00f0ur \u00feetta ef Dagur de muslim f\u00e6r a\u00f0 r\u00e1\u00f0a", 
+            "type": "status", 
+            "id": "156636487712070_564021786973536", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkwTWpnMU5EVXdNamd3TlRBek9qRXpOek0xT0RNek5qUTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkwTURNeE56azJPVGN5TlRNMU9qRXpOek0xTXpBek5qWTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10204841708308329", 
+                            "name": "Margr\u00e9t Sig"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-11T08:12:46+0000", 
+                        "message": "Yfirbrei\u00f0slur dulur tuskukl\u00e6\u00f0na\u00f0ur forneskja.!", 
+                        "id": "564031796972535", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10203983047150553", 
+                            "name": "Tryggvi Lilli Bjarnason"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-11T22:56:04+0000", 
+                        "message": "\u00fev\u00ed mi\u00f0ur samkv\u00e6mt l\u00f6gum m\u00e1 ekki hylja sig dona \u00e1 \u00cdslandi, en \u00fea\u00f0 vir\u00f0ist l\u00f6glegt \u00ed D\u00f3mss\u00f6lum \u00e1 \u00cdslandi,ef marka m\u00e1 myndir sem eru teknar \u00fear og eru \u00e1 fr\u00e9ttami\u00f0lum ???", 
+                        "id": "564285450280503", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDAHONspnTMHUF5&w=158&h=158&url=http%3A%2F%2Fcdn.exponerat.info%2Fwp-content%2Fuploads%2F2013%2F07%2F2013-07-11-18-58-20_ryssland_ortodox_kyrka.jpg", 
+            "from": {
+                "id": "4214905188472", 
+                "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+            }, 
+            "name": "Saudi ville sponsra mosk\u00e9er i Moskva \u2013 D\u00e5 ville ryssen ha kyrkor i Saudi", 
+            "caption": "www.exponerat.info", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/564192796956435", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/564192796956435", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-11T18:01:29+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "http://www.exponerat.info/saudi-ville-sponsra-moskeer-i-moskva-da-ville-ryssen-ha-kyrkor-i-saudi/", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkwTVRreU9Ua3dNamc1TnpRNU9qRXpOek0xTmpVMk9EazZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFkwTVRreU9Ua3dNamc1TnpRNU9qRXpOek0xTmpVMk9EazZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "4214905188472", 
+                            "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-11T18:01:29+0000", 
+                        "message": "h\u00farra fyrir R\u00fassum", 
+                        "id": "564192990289749", 
+                        "user_likes": false
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-11T18:00:52+0000", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+            "type": "link", 
+            "id": "156636487712070_564192796956435", 
+            "description": "Ryssarna som alltid varit realpolitiker. Politikerna i Moskva visste p\u00e5 r\u00e5d n\u00e4r en stor mosk\u00e9 skulle byggas i staden f\u00f6r saudiska pengar. Inga problem, bygg hur m\u00e5nga ni vill. Men vi vill anl\u00e4gga en rysk-ortodox kyrka i Riyadh f\u00f6r varje mosk\u00e9 ni vill uppf\u00f6ra i Moskva."
+        }, 
+        {
+            "from": {
+                "id": "10205236412500557", 
+                "name": "Charlotte Gunnarsson"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516165351759180", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516165351759180", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-10T16:50:09+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDI2NTI2MDI1NzAwMTM=", 
+                        "before": "NDE5Njc4Nzg5NTQ4OQ=="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10202652602570013", 
+                        "name": "Egill \u00de\u00f3r Hallgr\u00edmsson"
+                    }
+                ]
+            }, 
+            "created_time": "2013-03-11T09:13:42+0000", 
+            "message": "Please join https://www.facebook.com/pages/M\u00f3tm\u00e6lum-%C3%ADslamsk-stj\u00f3rnkerfi-\u00e1-\u00cdslandi/440346102712951?skip_nax_wizard=true", 
+            "type": "status", 
+            "id": "156636487712070_516165351759180", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVFl6TnpnMU1qWXpOall6T0RVMU9qRXpOek0wTnpVd01EazZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOVEUyTWpRME1qY3hOelV4TWpnNE9qRXpOak13TVRFME1ETTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 4, 
+                        "can_remove": false, 
+                        "created_time": "2013-03-11T14:16:43+0000", 
+                        "message": "Charlotte  -  \u00e9g  vil  endilega   sty\u00f0ja   n\u00fdju  s\u00ed\u00f0una  \u00fe\u00edna  en  \u00fe\u00fa  \u00fearft  a\u00f0  stafsetja  \u00feetta  r\u00e9tt:   ,,M\u00d3TM\u00c6LUM  \u00cdSL\u00d6MSKU STJ\u00d3RNKERFI \u00c1 \u00cdSLANDI.\"  \u00deegar   \u00fe\u00fa  ert  b\u00fainn  a\u00f0  \u00fev\u00ed  \u00fe\u00e1   skal  \u00e9g   augl\u00fdsa  hana  fyrir  \u00feig   \u00e1  a\u00f0als\u00ed\u00f0unni  okkar  og  jafnvel  skrifa  inn   \u00e1  hana  ef  \u00fe\u00fa  vilt.", 
+                        "id": "516244271751288", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10204402358850791", 
+                            "name": "\u00d3lafur Gunnarsson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2013-03-13T07:07:05+0000", 
+                        "message": "Um a\u00f0 gera a\u00f0 vekja athygli \u00e1 \u00feessum m\u00e1laflokk og opna augu \u00feeirra sem ekki sj\u00e1 \u00feennann f\u00e1gest.", 
+                        "id": "516871671688548", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2013-07-10T16:50:09+0000", 
+                        "message": "Vi\u00f0 \u00feurfuum a\u00f0 vera \u00e1 ver\u00f0i gegn \u00feessum v\u00e1gest sem islam er!!!", 
+                        "id": "563785263663855", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBEWo8YWRe_ZWyH&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FzHF-aqszO7Y%2Fhqdefault.jpg%3Ffeature%3Dog", 
+            "from": {
+                "id": "4214905188472", 
+                "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+            }, 
+            "name": "ISLAM will Collapse in 10 Years : Ex-Muslim", 
+            "source": "http://www.youtube.com/v/zHF-aqszO7Y?version=3&autohide=1&autoplay=1", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/563749200334128", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/563749200334128", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-07-10T14:56:07+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "https://www.youtube.com/watch?v=zHF-aqszO7Y", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NTUxMDMxODg0OTk2MzYy", 
+                        "before": "MTAyMDQwOTc2MTg2OTc5MjA="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10204097618697920", 
+                        "name": "S\u00e6var \u00d6rn Arason Michelsen"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }
+                ]
+            }, 
+            "created_time": "2013-07-10T14:56:07+0000", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif", 
+            "type": "video", 
+            "id": "156636487712070_563749200334128", 
+            "description": "Biggest Terrorists is the ALLAH of Koran : Ex-Muslim (President of Islamic Youth Organization, Palestine). He is one of the young founder of Hamas."
+        }, 
+        {
+            "from": {
+                "id": "10205590280222163", 
+                "name": "Asgeir Aegisson"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/531977620177953", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/531977620177953", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-04-22T21:30:06+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDQ4NDE3MDgzMDgzMjk=", 
+                        "before": "MTAyMDQ4NDE3MDgzMDgzMjk="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10204841708308329", 
+                        "name": "Margr\u00e9t Sig"
+                    }
+                ]
+            }, 
+            "created_time": "2013-04-22T21:30:06+0000", 
+            "message": "Hey, al\u00fej\u00f3\u00f0legi \"Allir teikna M\u00fahame\u00f0\" dagurinn n\u00e1lgast, 20. ma\u00ed. Allir a\u00f0 vera tilb\u00fanir me\u00f0 myndir. V\u00e6ri s\u00e9rlega gaman a\u00f0 sj\u00e1 \u00edslenskar myndir!", 
+            "type": "status", 
+            "id": "156636487712070_531977620177953"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516762755032773", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516762755032773", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-03-12T22:25:21+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDIxNDkwNTE4ODQ3Mg==", 
+                        "before": "NDIxNDkwNTE4ODQ3Mg=="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2013-03-12T22:25:21+0000", 
+            "message": "Sprengja \u00ed Sv\u00ed\u00fej\u00f3\u00f0", 
+            "type": "status", 
+            "id": "156636487712070_516762755032773"
+        }, 
+        {
+            "from": {
+                "id": "10205236412500557", 
+                "name": "Charlotte Gunnarsson"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516155688426813", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/516155688426813", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-03-11T08:19:17+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDIxNjM3NTcxMjU1NzE=", 
+                        "before": "NDE5Njc4Nzg5NTQ4OQ=="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }, 
+                    {
+                        "id": "10152129785875843", 
+                        "name": "P\u00e9tur \u00de\u00f3r"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }
+                ]
+            }, 
+            "created_time": "2013-03-11T08:19:17+0000", 
+            "message": "DEAR ICELANDERS, PLEASE LET YOUR PARLIAMENT KNOW THAT ISLAM IS NOT A RELIGION BUT A POLITICAL MOVEMENT WHICH USES FORCE TO IMPOSE THEIR LAW.", 
+            "type": "status", 
+            "id": "156636487712070_516155688426813"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/487550977953951", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/487550977953951", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2013-01-10T01:30:08+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDIxNDkwNTE4ODQ3Mg==", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2013-01-10T01:30:08+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_487550977953951"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/463379167037799", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/463379167037799", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-11-11T12:50:48+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NTUxMDMxODg0OTk2MzYy", 
+                        "before": "NDIxNDkwNTE4ODQ3Mg=="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10204683871249252", 
+                        "name": "Sigr\u00fan Sigurj\u00f3nsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10204351112592280", 
+                        "name": "Sirry Waage"
+                    }, 
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }
+                ]
+            }, 
+            "created_time": "2012-11-11T12:50:48+0000", 
+            "message": "Stj\u00f3rnm\u00e1lamenn evr\u00f3pu eru b\u00fanir a\u00f0 opna allt upp\u00e1 g\u00e1tt \u00ed l\u00f6ndum evr\u00f3pu \u00fea\u00f0 \u00feekkist ekki annarssta\u00f0ar \u00ed heiminum", 
+            "type": "status", 
+            "id": "156636487712070_463379167037799"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/458935920815457", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/458935920815457", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-10-30T08:27:26+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDIxNDkwNTE4ODQ3Mg==", 
+                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10204351112592280", 
+                        "name": "Sirry Waage"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-10-30T08:27:26+0000", 
+            "message": "Sama alla t\u00ed\u00f0", 
+            "type": "status", 
+            "id": "156636487712070_458935920815457"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/455954581113591", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/455954581113591", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-10-22T12:43:28+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NTUxMDMxODg0OTk2MzYy", 
+                        "before": "NTUxMDMxODg0OTk2MzYy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }
+                ]
+            }, 
+            "created_time": "2012-10-22T12:43:28+0000", 
+            "message": "Hann kemur s\u00ednum m\u00f6nnum a\u00f0", 
+            "type": "status", 
+            "id": "156636487712070_455954581113591"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/451858964856486", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/451858964856486", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-10-12T20:15:14+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDE5Njc4Nzg5NTQ4OQ==", 
+                        "before": "NTUxMDMxODg0OTk2MzYy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }, 
+                    {
+                        "id": "4196787895489", 
+                        "name": "Magnus Thorlacius Einarsson"
+                    }
+                ]
+            }, 
+            "created_time": "2012-10-11T05:25:23+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_451858964856486", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFV5TkRRNU5qVXhORFkwTURnME9qRXpOVEF3TnpJNU1UUTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFV4T0RZeE16QTRNVGc1TlRnMU9qRXpORGs1TXpNNE1EQTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2012-10-11T05:36:40+0000", 
+                        "message": "There is just something sick about islam. no to islam", 
+                        "id": "451861308189585", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2012-10-12T20:15:14+0000", 
+                        "message": "H\u00e6tt   vi\u00f0  a\u00f0  sp\u00e1d\u00f3mar   hans   muni  r\u00e6tast.  Bl\u00f3\u00f0   \u00e1r  \u00e1  str\u00e6tum  London.", 
+                        "id": "452449651464084", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "551031884996362", 
+                "name": "Lisa Bjork"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/440189856023397", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/440189856023397", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-09-08T21:46:15+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDIxNjM3NTcxMjU1NzE=", 
+                        "before": "MTAyMDIxNjM3NTcxMjU1NzE="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10202163757125571", 
+                        "name": "Skuli Skulason"
+                    }
+                ]
+            }, 
+            "created_time": "2012-09-08T16:37:37+0000", 
+            "message": "H\u00e9r s\u00e9st hva\u00f0 m\u00faslimarnir eru hrifnir af okkur hinum", 
+            "type": "status", 
+            "id": "156636487712070_440189856023397", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFF3TWpjME1UVTJNREUwT1RZM09qRXpORGN4TkRBM056VTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFF3TWpjME1UVTJNREUwT1RZM09qRXpORGN4TkRBM056VTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 1, 
+                        "can_remove": false, 
+                        "created_time": "2012-09-08T21:46:15+0000", 
+                        "message": "Retarded    -  means   very  low   I.Q.", 
+                        "id": "440274156014967", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDNKE4ZH0wUbELw&w=158&h=158&url=http%3A%2F%2Fhrydjuverk.files.wordpress.com%2F2012%2F05%2Firakar-c3ad-svc3adc3bejc3b3c3b0.jpg%3Fw%3D300%26h%3D300", 
+            "from": {
+                "id": "10202163757125571", 
+                "name": "Skuli Skulason"
+            }, 
+            "name": "ER    SV\u00cd\u00deJ\u00d3\u00d0   KOMIN   \u00cd   HUNDANA.  I. \u00de\u00e1ttur.", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZORFF3TWpBek1EazVNelUxTkRBMk9qRXpORGN4TWpRNU1UWTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOREUyTkRNek1URXhOek15TkRBMU9qRXpOREV6TmpRNU9EQTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "551031884996362", 
+                            "name": "Lisa Bjork"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2012-07-04T01:23:00+0000", 
+                        "message": "Sv\u00ed\u00fej\u00f3\u00f0 er farin til fjandans.\u00dea\u00f0 er ekki \u00feverf\u00f3ta\u00f0 fyrir hatursfullum m\u00faslimum \u00fearna", 
+                        "id": "416433111732405", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "4196787895489", 
+                            "name": "Magnus Thorlacius Einarsson"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2012-07-18T02:38:40+0000", 
+                        "message": "Sv\u00edakommum \u00feykir sk\u00edturinn fallegur af\u00fev\u00ed hann skiftir um lit \u00ed rotnuninni.........", 
+                        "id": "421427304566319", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10152540541137270", 
+                            "name": "Palmar Magnusson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2012-09-08T17:21:56+0000", 
+                        "message": "B\u00ed\u00f0i\u00f0 bara og sj\u00e1i\u00f0 \u00feegar \u00fea\u00f0 s\u00fd\u00f0ur upp\u00far s\u00e6nska mj\u00f3lkurpottinum :)", 
+                        "id": "440203099355406", 
+                        "user_likes": false
+                    }
+                ]
+            }, 
+            "caption": "hrydjuverk.wordpress.com", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/386651768043873", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/386651768043873", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-09-08T17:21:56+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "link": "http://hrydjuverk.wordpress.com/2012/05/14/er-svithjod-komin-i-hundana-i-thattur/", 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDE1NjU5MjI4Njg2Mzc=", 
+                        "before": "NTUxMDMxODg0OTk2MzYy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-05-14T14:12:23+0000", 
+            "message": "http://hrydjuverk.wordpress.com/2012/05/14/er-svithjod-komin-i-hundana-i-thattur/\n\nEru    MenningarMarxistarnir  \u00ed   stj\u00f3rn   Sv\u00ed\u00fej\u00f3\u00f0ar    a\u00f0    r\u00fasta   hina   g\u00f6mlu   s\u00e6nsku   h\u00e1menningu   af  \u00e1settu    r\u00e1\u00f0i.", 
+            "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif", 
+            "type": "link", 
+            "id": "156636487712070_386651768043873", 
+            "description": "  MenningarMarxista   r\u00edkisstj\u00f3rninni  \u00ed  Sv\u00ed\u00fej\u00f3\u00f0  gengur  vel   vi\u00f0  a\u00f0   r\u00fasta    s\u00e6nska  h\u00e1menningu  og     innlei\u00f0a  \u00ed  sta\u00f0in   \u00f3menningu   Mi\u00f0-..."
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/427877690587947", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/427877690587947", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-08-05T20:30:30+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDQ2ODM4NzEyNDkyNTI=", 
+                        "before": "NDIxNDkwNTE4ODQ3Mg=="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10204683871249252", 
+                        "name": "Sigr\u00fan Sigurj\u00f3nsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-08-05T18:48:20+0000", 
+            "message": "Ver\u00f0ur \u00feetta svona h\u00e9r einn g\u00f3\u00f0an ve\u00f0urdag", 
+            "type": "status", 
+            "id": "156636487712070_427877690587947", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZOREkzT1RBMk5qRXdOVGcxTURVMU9qRXpORFF4T1RnMk16QTZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZOREkzT1RBMk5qRXdOVGcxTURVMU9qRXpORFF4T1RnMk16QTZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "551031884996362", 
+                            "name": "Lisa Bjork"
+                        }, 
+                        "like_count": 0, 
+                        "can_remove": false, 
+                        "created_time": "2012-08-05T20:30:30+0000", 
+                        "message": "\u00devo \u00fevott", 
+                        "id": "427906610585055", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "551031884996362", 
+                "name": "Lisa Bjork"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/420456677996715", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/420456677996715", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-07-15T12:21:08+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "created_time": "2012-07-15T12:21:08+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_420456677996715"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/415800911795625", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/415800911795625", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-07-02T21:23:43+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDE1NjU5MjI4Njg2Mzc=", 
+                        "before": "NTUxMDMxODg0OTk2MzYy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-07-02T21:23:43+0000", 
+            "message": "F\u00f3lk er a\u00f0 vakna samt betur fer", 
+            "type": "status", 
+            "id": "156636487712070_415800911795625"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/386045581437825", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/386045581437825", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-05-13T13:28:58+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "MTAyMDQ2ODM4NzEyNDkyNTI=", 
+                        "before": "NTUxMDMxODg0OTk2MzYy"
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "551031884996362", 
+                        "name": "Lisa Bjork"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10204683871249252", 
+                        "name": "Sigr\u00fan Sigurj\u00f3nsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-05-13T13:28:58+0000", 
+            "message": "\u00deessi h\u00e6lisleitandi \u00fe\u00f3ttist vera 15 \u00e1ra , drap n\u00e6stum konuna sem gaf honum skj\u00f3l  .", 
+            "type": "status", 
+            "id": "156636487712070_386045581437825"
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/385370718171978", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/385370718171978", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-05-12T22:07:52+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "likes": {
+                "paging": {
+                    "cursors": {
+                        "after": "NDIxNDkwNTE4ODQ3Mg==", 
+                        "before": "MTAxNTI1NDA1NDExMzcyNzA="
+                    }
+                }, 
+                "data": [
+                    {
+                        "id": "10152540541137270", 
+                        "name": "Palmar Magnusson"
+                    }, 
+                    {
+                        "id": "10204683871249252", 
+                        "name": "Sigr\u00fan Sigurj\u00f3nsd\u00f3ttir"
+                    }, 
+                    {
+                        "id": "10201565922868637", 
+                        "name": "Linda Sk\u00falad\u00f3ttir"
+                    }, 
+                    {
+                        "id": "4214905188472", 
+                        "name": "Karen Gu\u00f0mundsd\u00f3ttir"
+                    }
+                ]
+            }, 
+            "created_time": "2012-05-12T07:58:44+0000", 
+            "message": "Svona er b\u00f6rnin sem s\u00e6kja um h\u00e6li \u00ed Sv\u00ed\u00fej\u00f3\u00f0", 
+            "type": "status", 
+            "id": "156636487712070_385370718171978", 
+            "comments": {
+                "paging": {
+                    "cursors": {
+                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZNemcxTnpJeE5EY3hORGN3TWpNMk9qRXpNelk0TmpBME56STZMVEU9", 
+                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZNemcxTkRNd05UZzRNVFkxT1RreE9qRXpNelk0TWpFNU5EZzZMVEU9"
+                    }
+                }, 
+                "data": [
+                    {
+                        "from": {
+                            "id": "10202163757125571", 
+                            "name": "Skuli Skulason"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2012-05-12T11:25:48+0000", 
+                        "message": "M\u00e9r    s\u00fdnist  \u00feeir   flestir   eldri   heldur  en  18   \u00e1ra.  En   eins  og  sagt  er:   ,,Str\u00ed\u00f0  er   Blekking\"   og  m\u00fasl\u00edmar   eru  \u00ed   k\u00f6ldu  str\u00ed\u00f0i  vi\u00f0 okkur  a\u00f0   eigin  s\u00f6gn.", 
+                        "id": "385430588165991", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10152611191596376", 
+                            "name": "Sirry Hannesdottir"
+                        }, 
+                        "like_count": 3, 
+                        "can_remove": false, 
+                        "created_time": "2012-05-12T15:29:05+0000", 
+                        "message": "Einmitt b\u00f6rnin!!! My ass", 
+                        "id": "385531301489253", 
+                        "user_likes": false
+                    }, 
+                    {
+                        "from": {
+                            "id": "10152540541137270", 
+                            "name": "Palmar Magnusson"
+                        }, 
+                        "like_count": 2, 
+                        "can_remove": false, 
+                        "created_time": "2012-05-12T22:07:52+0000", 
+                        "message": "\u00feetta er \u00fer\u00e6lasala sem \"barnafl\u00f3ttamenn\" fjallar um..", 
+                        "id": "385721471470236", 
+                        "user_likes": false
+                    }
+                ]
+            }
+        }, 
+        {
+            "from": {
+                "id": "10202751411340490", 
+                "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
+            }, 
+            "privacy": {
+                "value": ""
+            }, 
+            "actions": [
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/385522818156768", 
+                    "name": "Comment"
+                }, 
+                {
+                    "link": "https://www.facebook.com/156636487712070/posts/385522818156768", 
+                    "name": "Like"
+                }
+            ], 
+            "updated_time": "2012-05-12T15:10:10+0000", 
+            "to": {
+                "data": [
+                    {
+                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
+                        "id": "156636487712070"
+                    }
+                ]
+            }, 
+            "created_time": "2012-05-12T15:10:10+0000", 
+            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
+            "type": "status", 
+            "id": "156636487712070_385522818156768"
+        }, 
         {
             "from": {
                 "id": "10202751411340490", 
@@ -810,126 +3232,6 @@
             "message": "\u00deessi gle\u00f0igjafi b\u00fdr \u00ed Noregi", 
             "type": "status", 
             "id": "156636487712070_288911944484523"
-        }, 
-        {
-            "from": {
-                "id": "10205236412500557", 
-                "name": "Charlotte Gunnarsson"
-            }, 
-            "privacy": {
-                "value": ""
-            }, 
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/156636487712070/posts/156647177711001", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/156636487712070/posts/156647177711001", 
-                    "name": "Like"
-                }
-            ], 
-            "updated_time": "2011-02-03T18:02:53+0000", 
-            "to": {
-                "data": [
-                    {
-                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
-                        "id": "156636487712070"
-                    }
-                ]
-            }, 
-            "comments": {
-                "paging": {
-                    "cursors": {
-                        "after": "WTI5dGJXVnVkRjlqZFhKemIzSTZNVGM0TVRrNU56TTRPRGc1TURjNE9qRXlPVFkzTlRZeE56TTZMVEU9", 
-                        "before": "WTI5dGJXVnVkRjlqZFhKemIzSTZNVGM0TVRrNU56TTRPRGc1TURjNE9qRXlPVFkzTlRZeE56TTZMVEU9"
-                    }
-                }, 
-                "data": [
-                    {
-                        "from": {
-                            "id": "10204683871249252", 
-                            "name": "Sigr\u00fan Sigurj\u00f3nsd\u00f3ttir"
-                        }, 
-                        "like_count": 4, 
-                        "can_remove": false, 
-                        "created_time": "2011-02-03T18:02:53+0000", 
-                        "message": "Burt me\u00f0 \u00feetta li\u00f0!", 
-                        "id": "178199738889078", 
-                        "user_likes": false
-                    }
-                ]
-            }, 
-            "created_time": "2010-11-07T09:30:42+0000", 
-            "type": "status", 
-            "id": "156636487712070_156647177711001"
-        }, 
-        {
-            "from": {
-                "id": "10205236412500557", 
-                "name": "Charlotte Gunnarsson"
-            }, 
-            "caption": "Attachment UnavailableThis attachment may have been removed or the person who shared it may not have permission to share it with you.", 
-            "privacy": {
-                "value": ""
-            }, 
-            "actions": [
-                {
-                    "link": "https://www.facebook.com/156636487712070/posts/156637464378639", 
-                    "name": "Comment"
-                }, 
-                {
-                    "link": "https://www.facebook.com/156636487712070/posts/156637464378639", 
-                    "name": "Like"
-                }
-            ], 
-            "updated_time": "2010-11-07T08:08:04+0000", 
-            "to": {
-                "data": [
-                    {
-                        "name": "M\u00f3tm\u00e6lum mosku \u00e1 \u00cdslandi", 
-                        "id": "156636487712070"
-                    }
-                ]
-            }, 
-            "likes": {
-                "paging": {
-                    "cursors": {
-                        "after": "MTAyMDIxNjM3NTcxMjU1NzE=", 
-                        "before": "MTAyMDE1NjU5MjI4Njg2Mzc="
-                    }
-                }, 
-                "data": [
-                    {
-                        "id": "10201565922868637", 
-                        "name": "Linda Sk\u00falad\u00f3ttir"
-                    }, 
-                    {
-                        "id": "10202751411340490", 
-                        "name": "Gu\u00f0r\u00fan Sk\u00falad\u00f3ttir"
-                    }, 
-                    {
-                        "id": "10152388751167661", 
-                        "name": "Margr\u00e9t Kristj\u00e1nsd\u00f3ttir"
-                    }, 
-                    {
-                        "id": "10204351112592280", 
-                        "name": "Sirry Waage"
-                    }, 
-                    {
-                        "id": "10205236412500557", 
-                        "name": "Charlotte Gunnarsson"
-                    }, 
-                    {
-                        "id": "10202163757125571", 
-                        "name": "Skuli Skulason"
-                    }
-                ]
-            }, 
-            "created_time": "2010-11-07T08:08:04+0000", 
-            "message": "http://hrydjuverk.wordpress.com/category/jihad/moskan/", 
-            "type": "status", 
-            "id": "156636487712070_156637464378639"
         }
     ]
 }
